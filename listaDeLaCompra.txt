@@ -3,3 +3,4 @@
 -avellana
 -nocilla
 -sal
+-pimienta
