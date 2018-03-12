@@ -1,6 +1,4 @@
 -leche
--cacao2
+-cacao
 -avellana
 -nocilla
--azucar
--col
