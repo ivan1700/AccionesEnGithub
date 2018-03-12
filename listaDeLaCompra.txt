@@ -3,4 +3,4 @@
 -avellana
 -nocilla
 -azucar
--colesterol
+-col
