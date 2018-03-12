@@ -1,6 +1,5 @@
 -leche
--cacao
+-cacao2
 -avellana
 -nocilla
--sal
--pimienta
+-azucar
